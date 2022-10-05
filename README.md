@@ -25,4 +25,4 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://giphy.com/gifs/WKDE6Z4zxq4VNtHTTR' width = 250 label = "video walkthrough">
+<img src='https://giphy.com/gifs/WKDE6Z4zxq4VNtHTTR.gif' width = 250 label = "video walkthrough">
