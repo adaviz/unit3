@@ -25,5 +25,4 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src = "https://giphy.com/embed/WKDE6Z4zxq4VNtHTTR" width = 250>
-<a href="https://giphy.com/gifs/WKDE6Z4zxq4VNtHTTR">via GIPHY</a>
+<a href="https://giphy.com/gifs/WKDE6Z4zxq4VNtHTTR">Click Here to View Animated Gif</a>
